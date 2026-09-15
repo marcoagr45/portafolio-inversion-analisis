@@ -1,0 +1,6 @@
+# Entorno virtual
+venv/
+# Archivos temporales de Tableau
+.~*.twbr
+# Archivos metadatos MacOs
+.DS_Store
