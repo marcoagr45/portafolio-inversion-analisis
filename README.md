@@ -41,7 +41,7 @@ Elegí Tableau en esta etapa porque para usar Power BI requiero una máquina vir
 ## Dashboard en Tableau Public
 El dashboard muestra los principales indicadores generados en Python: sharpe-ratio, rendimiento promedio, volatilidad, retorno acumulado, evolución en el tiempo y matriz de correlación entre tickers. 
 
-Link al dashboard:https://public.tableau.com/app/profile/marco.g.emez/viz/Portafolio_Inversion_Analisis/Dashboard?publish=yes 
+Link al dashboard: https://public.tableau.com/views/Portafolio_Inversion_Analisis/Overview?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Se generaron 4 visualizaciones: 
 - Gráfico de barras:  ranking de tickers utilizando el sharpe-ratio como medida
